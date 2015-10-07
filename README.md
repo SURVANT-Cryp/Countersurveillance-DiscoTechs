@@ -1,4 +1,7 @@
 # DiscoTech
+The MIT Codesign Studio team organized, hosted, participated in, and supported several countersurveillance DiscoTechs (short for “Discovering Technology” events) and hackathons during the spring of 2014. I participated in the one that took place in Cambridge at the M
+
+
 
 <b>What is a DiscoTech?</b><br>
 A DiscoTech is a community-based, community-organized, multimedia workshop and fair. At a DiscoTech, participants learn more about the impacts and possibilities of technology, and take part in fun, interactive and media-based workshops. Discotech workshops are designed to demystify technology and create a space where we can inform and engage our community [...] A Discotech utilizes the unique skills and expertise within each community and morphs to adapt to changing needs. [See this "How To Discotech" Zine: http://detroitprojectarchive.com/client/DDJC_amc2012.pdf.zip]<br>
