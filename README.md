@@ -7,6 +7,7 @@ At countersurveillance DiscoTechs, we focus on creating welcoming spaces where a
 
 The MIT Codesign Studio team organized, hosted, participated in, and supported several countersurveillance DiscoTechs and hackathons during the spring of 2014. At the Boston DiscoTech I gave a presentation on the SURVANT-Cryp project and later participated in a variety of countersurveillance workshops and activities. At this event I was introduced to <a href="vojo.co">Vojo</a>, a platform that allows people to post stories from inexpensive mobile phones via voice calls, SMS, and MMS. Professor Sasha Costanza-Chock led a group of attendees (myself included) around the MIT campus, where we captured images of surveillance cameras and then posted them to Vojo (http://vojo.co/en/discotech). This participatory walking and mapping exercise underscored the ubiquitousness of the Cambridge surveillance apparatus. The group worked together to create a map, which undeniably changed our collective perspective of the space. 
  <br>
+ <br>
 I am sharing this project on GitHub in the spirit of distribution and DIWO culture.
 
 
