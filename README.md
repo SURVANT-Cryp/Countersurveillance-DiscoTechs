@@ -1,6 +1,6 @@
 # Countersurveillance DiscoTechs/Wave Farm Dead Drop
 <b>What is a DiscoTech?</b><br>
-A Discotech (which is short for Discovering Technology) is a model for a community-based and community-organized multimedia, drop-in workshop fair. 
+A Discotech (which is short for Discovering Technology) is a model for a community-based and community-organized multimedia drop-in workshop fair. 
 
 At a Discotech, participants learn more about the impact and possibilities of technology within our communities and take part in fun, interactive and media-based workshops. Discotech workshops are designed to demystify technology, and create a space where we can inform and engage communities. A Discotech utilizes the unique skills and expertise within each community and morphs to adapt to changing needs. [See this "How To Discotech" Zine: http://detroitprojectarchive.com/client/DDJC_amc2012.pdf.zip]<br>
 
